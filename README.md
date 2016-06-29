@@ -1,6 +1,7 @@
-# test
+# Vue.js starter
 
-> A Vue.js project
+> Code generated from vue-cli
+> added functionality with vue-router, vue-resource, vuex, vuex-router-sync
 
 ## Build Setup
 
